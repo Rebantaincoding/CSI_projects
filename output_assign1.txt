@@ -1,6 +1,6 @@
 PS C:\Users\REBANTA SARKAR> python -u "d:\Celebal_projects\RebantaSarkar_assign1.py"
 
- Enter size of triange 
+ Enter size of triangle 
 
 5
 
