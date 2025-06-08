@@ -1,7 +1,7 @@
 #Rebanta Sarkar
 #Celebal user_id:CT_CSI_DS_4841 
 #Program to print Lower triangle,Upper Triangle and Pyramid 
-print("\n Enter size of triange \n")
+print("\n Enter size of triangle \n")
 n=int(input())
 print("\nLower Triangle:\n")
 for i in range (0,n):
